@@ -1,1 +1,1 @@
-# Credit-Score-Classification
+# credit-score-classification
